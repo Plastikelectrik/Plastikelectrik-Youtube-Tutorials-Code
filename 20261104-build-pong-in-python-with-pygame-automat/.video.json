@@ -1,0 +1,17 @@
+{
+ "title": "Build Pong in Python with Pygame: Automate Every Frame",
+ "video": "",
+ "files": [
+  "main.py",
+  "requirements.txt",
+  "steps/step_01.py",
+  "steps/step_02.py",
+  "steps/step_03.py",
+  "steps/step_04.py",
+  "steps/step_05.py",
+  "steps/step_06.py",
+  "steps/step_07.py",
+  "steps/step_08.py"
+ ],
+ "channel": "Plastikelectrik_America"
+}

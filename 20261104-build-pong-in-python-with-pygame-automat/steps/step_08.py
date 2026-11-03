@@ -1,0 +1,87 @@
+# Step 8: Win the Match
+import pygame
+
+pygame.init()
+WIDTH, HEIGHT = 800, 600
+screen = pygame.display.set_mode((WIDTH, HEIGHT))
+pygame.display.set_caption("Pong")
+clock = pygame.time.Clock()
+
+left = pygame.Rect(30, HEIGHT // 2 - 50, 12, 100)
+right = pygame.Rect(WIDTH - 42, HEIGHT // 2 - 50, 12, 100)
+PADDLE_SPEED = 7
+area = screen.get_rect()
+
+# the ball: a small square that moves a few pixels every frame
+ball = pygame.Rect(WIDTH // 2 - 8, HEIGHT // 2 - 8, 16, 16)
+speed_x, speed_y = 5, 4
+
+# the score of each player and the font to show it
+score_left, score_right = 0, 0
+font = pygame.font.Font(None, 64)
+WIN_SCORE = 5
+winner = None
+
+running = True
+while running:
+    for event in pygame.event.get():
+        if event.type == pygame.QUIT:
+            running = False
+        # SPACE starts a new match after a win
+        if event.type == pygame.KEYDOWN and event.key == pygame.K_SPACE and winner:
+            winner = None
+            score_left, score_right = 0, 0
+
+    if winner:
+        screen.fill((15, 20, 35))
+        msg = font.render(f"{winner} wins! Press SPACE", True, (255, 210, 60))
+        screen.blit(msg, (WIDTH // 2 - msg.get_width() // 2, HEIGHT // 2 - 30))
+        pygame.display.flip()
+        clock.tick(60)
+        continue
+
+    keys = pygame.key.get_pressed()
+    if keys[pygame.K_w]:
+        left.y -= PADDLE_SPEED
+    if keys[pygame.K_s]:
+        left.y += PADDLE_SPEED
+    if keys[pygame.K_UP]:
+        right.y -= PADDLE_SPEED
+    if keys[pygame.K_DOWN]:
+        right.y += PADDLE_SPEED
+    left.clamp_ip(area)
+    right.clamp_ip(area)
+
+    ball.x += speed_x
+    ball.y += speed_y
+    # bounce on the top and bottom edges
+    if ball.top <= 0 or ball.bottom >= HEIGHT:
+        speed_y = -speed_y
+    # bounce on a paddle only when the ball moves towards it
+    if ball.colliderect(left) and speed_x < 0:
+        speed_x = -speed_x
+    if ball.colliderect(right) and speed_x > 0:
+        speed_x = -speed_x
+    # the ball left the window: a point for the other player
+    if ball.right < 0 or ball.left > WIDTH:
+        if ball.right < 0:
+            score_right += 1
+        else:
+            score_left += 1
+        ball.center = (WIDTH // 2, HEIGHT // 2)
+        speed_x = -speed_x
+        # first to WIN_SCORE points wins the match
+        if score_left == WIN_SCORE:
+            winner = "Left player"
+        elif score_right == WIN_SCORE:
+            winner = "Right player"
+    screen.fill((15, 20, 35))
+    pygame.draw.rect(screen, (255, 255, 255), left)
+    pygame.draw.rect(screen, (255, 255, 255), right)
+    pygame.draw.ellipse(screen, (255, 210, 60), ball)
+    text = font.render(f"{score_left}   {score_right}", True, (255, 255, 255))
+    screen.blit(text, (WIDTH // 2 - text.get_width() // 2, 20))
+    pygame.display.flip()
+    clock.tick(60)
+
+pygame.quit()
