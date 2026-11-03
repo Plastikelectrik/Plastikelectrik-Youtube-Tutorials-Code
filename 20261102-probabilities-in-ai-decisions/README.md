@@ -1,6 +1,6 @@
 # Probabilities in AI Decisions
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/zGnLpLRtGSQ
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261102-probabilities-in-ai-decisions/code.zip)
 
