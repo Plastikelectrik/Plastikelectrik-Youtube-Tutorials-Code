@@ -4,6 +4,7 @@ Every folder holds the code shown in one Plastikelectrik YouTube tutorial, exact
 
 | Video | Channel | Watch |
 |---|---|---|
+| [Build Password Generator in Python](20261107-build-password-generator-in-python/) | Plastikelectrik_America | coming soon |
 | [Build Pong in Python with Pygame: Automate Every Frame](20261104-build-pong-in-python-with-pygame-automat/) | Plastikelectrik_America | coming soon |
 | [Probabilities in AI Decisions](20261102-probabilities-in-ai-decisions/) | Plastikelectrik_America | [watch](https://youtu.be/zGnLpLRtGSQ) |
 | [Probabilities in AI Decisions](20261101-probabilities-in-ai-decisions/) | Plastikelectrik_America | [watch](https://youtu.be/ytREmh6fwgI) |
