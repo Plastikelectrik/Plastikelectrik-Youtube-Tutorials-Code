@@ -4,6 +4,7 @@ Every folder holds the code shown in one Plastikelectrik YouTube tutorial, exact
 
 | Video | Channel | Watch |
 |---|---|---|
+| [AI Automation Explained: Industry Insights](20261114-ai-automation-explained-industry-insight/) | Plastikelectrik_America | coming soon |
 | [Docker Kubernetes DevOps Basics](20261111-docker-kubernetes-devops-basics/) | Plastikelectrik_America | coming soon |
 | [Probabilities in AI Decisions](20261109-probabilities-in-ai-decisions/) | Plastikelectrik_America | coming soon |
 | [Build Password Generator in Python](20261107-build-password-generator-in-python/) | Plastikelectrik_America | coming soon |
