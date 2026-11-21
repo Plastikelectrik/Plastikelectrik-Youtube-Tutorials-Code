@@ -1,6 +1,6 @@
 # Learn Classes in Python: Build a Bank Account App
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/b45i_-EofrE
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261116-learn-classes-in-python-build-a-bank-acc/code.zip)
 

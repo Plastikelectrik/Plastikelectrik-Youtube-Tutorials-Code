@@ -4,7 +4,7 @@ Every folder holds the code shown in one Plastikelectrik YouTube tutorial, exact
 
 | Video | Channel | Watch |
 |---|---|---|
-| [Learn Classes in Python: Build a Bank Account App](20261116-learn-classes-in-python-build-a-bank-acc/) | Plastikelectrik_America | coming soon |
+| [Learn Classes in Python: Build a Bank Account App](20261116-learn-classes-in-python-build-a-bank-acc/) | Plastikelectrik_America | [watch](https://youtu.be/b45i_-EofrE) |
 | [AI Automation Explained: Industry Insights](20261114-ai-automation-explained-industry-insight/) | Plastikelectrik_America | [watch](https://youtu.be/MXZHmLdbGUA) |
 | [Docker Kubernetes DevOps Basics](20261111-docker-kubernetes-devops-basics/) | Plastikelectrik_America | [watch](https://youtu.be/WwjXp4G9Lz0) |
 | [Probabilities in AI Decisions](20261109-probabilities-in-ai-decisions/) | Plastikelectrik_America | coming soon |
