@@ -1,6 +1,6 @@
 # Docker Kubernetes DevOps Basics
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/WwjXp4G9Lz0
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261111-docker-kubernetes-devops-basics/code.zip)
 
