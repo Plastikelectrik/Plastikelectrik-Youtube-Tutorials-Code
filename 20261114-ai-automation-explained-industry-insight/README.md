@@ -1,6 +1,6 @@
 # AI Automation Explained: Industry Insights
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/MXZHmLdbGUA
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261114-ai-automation-explained-industry-insight/code.zip)
 
