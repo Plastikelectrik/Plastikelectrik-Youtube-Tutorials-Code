@@ -4,7 +4,7 @@ Every folder holds the code shown in one Plastikelectrik YouTube tutorial, exact
 
 | Video | Channel | Watch |
 |---|---|---|
-| [Uncover AI Secrets: Number Guessing Game](20261123-uncover-ai-secrets-number-guessing-game/) | Plastikelectrik_America | coming soon |
+| [Uncover AI Secrets: Number Guessing Game](20261123-uncover-ai-secrets-number-guessing-game/) | Plastikelectrik_America | [watch](https://youtu.be/3lVC3nBnzf0) |
 | [Learn Classes in Python: Build a Bank Account App](20261116-learn-classes-in-python-build-a-bank-acc/) | Plastikelectrik_America | [watch](https://youtu.be/b45i_-EofrE) |
 | [AI Automation Explained: Industry Insights](20261114-ai-automation-explained-industry-insight/) | Plastikelectrik_America | [watch](https://youtu.be/MXZHmLdbGUA) |
 | [Docker Kubernetes DevOps Basics](20261111-docker-kubernetes-devops-basics/) | Plastikelectrik_America | [watch](https://youtu.be/WwjXp4G9Lz0) |

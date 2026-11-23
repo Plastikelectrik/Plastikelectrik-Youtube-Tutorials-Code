@@ -1,6 +1,6 @@
 # Uncover AI Secrets: Number Guessing Game
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/3lVC3nBnzf0
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261123-uncover-ai-secrets-number-guessing-game/code.zip)
 
