@@ -1,6 +1,6 @@
 # Build Pong in Python with Pygame: Automate Every Frame
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/dinMueQIsMI
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261104-build-pong-in-python-with-pygame-automat/code.zip)
 
