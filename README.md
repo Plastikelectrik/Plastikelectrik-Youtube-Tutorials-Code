@@ -9,7 +9,7 @@ Every folder holds the code shown in one Plastikelectrik YouTube tutorial, exact
 | [AI Automation Explained: Industry Insights](20261114-ai-automation-explained-industry-insight/) | Plastikelectrik_America | [watch](https://youtu.be/MXZHmLdbGUA) |
 | [Docker Kubernetes DevOps Basics](20261111-docker-kubernetes-devops-basics/) | Plastikelectrik_America | [watch](https://youtu.be/WwjXp4G9Lz0) |
 | [Probabilities in AI Decisions](20261109-probabilities-in-ai-decisions/) | Plastikelectrik_America | [watch](https://youtu.be/14L0Ach2YMk) |
-| [Build Password Generator in Python](20261107-build-password-generator-in-python/) | Plastikelectrik_America | coming soon |
+| [Build Password Generator in Python](20261107-build-password-generator-in-python/) | Plastikelectrik_America | [watch](https://youtu.be/BhfesGyhgKU) |
 | [Build Pong in Python with Pygame: Automate Every Frame](20261104-build-pong-in-python-with-pygame-automat/) | Plastikelectrik_America | [watch](https://youtu.be/dinMueQIsMI) |
 | [Probabilities in AI Decisions](20261102-probabilities-in-ai-decisions/) | Plastikelectrik_America | [watch](https://youtu.be/zGnLpLRtGSQ) |
 | [Probabilities in AI Decisions](20261101-probabilities-in-ai-decisions/) | Plastikelectrik_America | [watch](https://youtu.be/ytREmh6fwgI) |

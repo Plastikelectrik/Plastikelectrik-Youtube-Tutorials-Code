@@ -1,6 +1,6 @@
 # Build Password Generator in Python
 
-▶ The video is coming soon.
+▶ Watch the video: https://youtu.be/BhfesGyhgKU
 
 ⬇ [Download all the code (zip)](https://github.com/Plastikelectrik/Plastikelectrik-Youtube-Tutorials-Code/raw/main/20261107-build-password-generator-in-python/code.zip)
 
